@@ -10,15 +10,15 @@ You need to have the same db file name and same table structure in order to use 
 
 This will be a practical example of how to select, insert, delete, update from the database using python
 
+## Bank.py
+This file has the getters and setters for attribute.
 
+This file also has initializer to initialize the variables
 
+## Bank_sqlite.py
+This is the actual file that creates the DB connection, prints the menu, fetch, delete, insert, update to and from the DataBase 
 
-
-
-
-
-
-
+There are several options that the main menu proposes once you execute the file which you can easily understand.
 
 
 
